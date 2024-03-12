@@ -32,13 +32,18 @@ The components for this project are
 - 1 push button
 - wires
 - a lot of cardboard and popsicle sticks
-- milk
+- milk ingredients
 
 To run the code, import the Arduino code onto your Arduino,, and then begin running the pythn code.
 
 ## References
 ### Tutorials Used for the Project
-- 
+- Arduino serial read data to integer. (2020). YouTube. Retrieved March 8, 2024, from https://www.youtube.com/watch?v=pG-GF9yCA5c.
+- Arduino. (2024, March 11). Servo Motor Basics with Arduino. Arduino Docs. March 4, 2024, https://docs.arduino.cc/learn/electronics/servo-motors/
+- bxparks. (2024, February 28). AceButton. GitHub. March 4, 2024, https://github.com/bxparks/AceButton
+- Control Arduino using Python. (2023). YouTube. Retrieved March 7, 2024, from https://www.youtube.com/watch?v=na8ksdfN0KM&list=PLdhbjaVF7HRVGKCVtEAFzrGCVN8om3kJU&index=8.
+- get Instagram account information with python. (2022a). YouTube. Retrieved March 7, 2024, from https://www.youtube.com/watch?v=E6wgokYYrUo.
+- Python serial port communication using PySerial. (2022b). YouTube. Retrieved March 7, 2024, from https://www.youtube.com/watch?v=Kr1RyK6WENQ. 
 
 ### Image Sources from Video
 - Hackett, J. (2019). Soy Beans. The Spruce Eats. Retrieved March 8, 2024, from https://www.thespruceeats.com/how-to-cook-soy-beans-3376401.
