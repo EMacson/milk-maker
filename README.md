@@ -8,7 +8,7 @@ Milk maker creates milk by checking instagram for people's milk preference and t
 For more information of how to build and run the project, check the circuit schema below and the functionality section.
 
 ## Circuit Schema
-<img src="./iamges/circuit schema.png" alt="Circuit Schema" />
+<img src="./iamges/circuit schema.png" alt="Circuit Schema" width="200"/>
 
 ## Instagram pages
 <img src="./iamges/IMG_3721.PNG" alt="" />
