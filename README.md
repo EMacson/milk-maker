@@ -10,7 +10,7 @@ For more information of how to build and run the project, check the circuit sche
 ## Circuit Schema
 <img src="./iamges/circuit schema.png" alt="Circuit Schema" />
 
-## Photos
+## instagram pages
 <img src="./iamges/IMG_3694.HEIC" alt="" />
 <img src="./iamges/IMG_3697.HEIC" alt="" />
 <img src="./iamges/IMG_3716.HEIC" alt="" />
@@ -18,6 +18,8 @@ For more information of how to build and run the project, check the circuit sche
 <img src="./iamges/IMG_3722.PNG" alt="" />
 <img src="./iamges/IMG_3723.PNG" alt="" />
 <img src="./iamges/IMG_3724.PNG" alt="" />
+
+## Photos
 <img src="./iamges/IMG_3727.PNG" alt="" />
 
 
