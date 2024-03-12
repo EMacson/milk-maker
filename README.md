@@ -41,4 +41,7 @@ To run the code, import the Arduino code onto your Arduino,, and then begin runn
 - 
 
 ### Image Sources from Video
-- 
+- Hackett, J. (2019). Soy Beans. The Spruce Eats. Retrieved March 8, 2024, from https://www.thespruceeats.com/how-to-cook-soy-beans-3376401.
+- Mulcahy, L. (2023). Coconuts. Good Housekeeping. Retrieved March 8, 2024, from https://www.goodhousekeeping.com/health/diet-nutrition/a45965113/coconut-nutrition-benefits/.
+- Sass, C. (2023). Almonds. Health. Retrieved March 8, 2024, from https://www.health.com/food/health-benefits-almonds.
+- Shivegami. (n.d.). Wheat cartoon. Clear PNG. Retrieved March 8, 2024, from https://www.cleanpng.com/png-porridge-rolled-oats-stock-photography-oatmeal-2098321/. 
