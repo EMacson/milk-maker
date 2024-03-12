@@ -1,7 +1,7 @@
 # milk-maker
 
 ## Concept
-
+What is the best kind of milk? It is an age old question. Some people might say cow, others almond, or maybe soy. But what if you didn't have to choose just one milk. 
 
 For more information of how to build and run the project, check the circuit schema below and the functionality section.
 
