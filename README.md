@@ -11,18 +11,18 @@ For more information of how to build and run the project, check the circuit sche
 <img src="./iamges/circuit schema.png" alt="Circuit Schema" width="400"/>
 
 ## Instagram pages
-<img src="./iamges/IMG_3721.PNG" alt="" />
-<img src="./iamges/IMG_3722.PNG" alt="" />
-<img src="./iamges/IMG_3723.PNG" alt="" />
-<img src="./iamges/IMG_3724.PNG" alt="" />
+<img src="./iamges/IMG_3721.PNG" alt="" width="400"/>
+<img src="./iamges/IMG_3722.PNG" alt="" width="400"/>
+<img src="./iamges/IMG_3723.PNG" alt="" width="400"/>
+<img src="./iamges/IMG_3724.PNG" alt="" width="400"/>
 
 ## Photos
-<img src="./iamges/IMG_3694.jpg" alt="" />
-<img src="./iamges/IMG_3729.jpg" alt="" />
-<img src="./iamges/IMG_3727.PNG" alt="" />
+<img src="./iamges/IMG_3694.jpg" alt="" width="400"/>
+<img src="./iamges/IMG_3729.jpg" alt="" width="400"/>
+<img src="./iamges/IMG_3727.PNG" alt="" width="400"/>
 
 ## Video Explanation and Demo
-[![IMAGE ALT TEXT HERE](./iamges/IMG_3727.PNG)](https://youtu.be/yMld8e0tEiU)
+[![IMAGE ALT TEXT HERE](./iamges/IMG_3727.PNG width="400")](https://youtu.be/yMld8e0tEiU)
 [Video](https://youtu.be/yMld8e0tEiU)
 
 ## Functionality
