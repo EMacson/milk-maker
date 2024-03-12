@@ -22,8 +22,8 @@ For more information of how to build and run the project, check the circuit sche
 <img src="./iamges/IMG_3727.PNG" alt="" width="400"/>
 
 ## Video Explanation and Demo
-[![IMAGE ALT TEXT HERE](./iamges/IMG_3727.PNG width="400")](https://youtu.be/yMld8e0tEiU)
 [<img src="./iamges/IMG_3727.PNG" width="400">](https://youtu.be/yMld8e0tEiU)
+
 [Video](https://youtu.be/yMld8e0tEiU)
 
 ## Functionality
