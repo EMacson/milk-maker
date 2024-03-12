@@ -9,10 +9,15 @@ For more information of how to build and run the project, check the circuit sche
 <img src="./iamges/circuit schema.png" alt="Circuit Schema" />
 
 ## Photos
-<img src="./images/IMG_3563.jpg" alt="" />
-<img src="./images/IMG_3564.jpg" alt="" />
-<img src="./images/IMG_3593.jpg" alt="" />
-<img src="./images/IMG_3591.jpg" alt="" />
+<img src="./iamges/IMG_3694.HEIC" alt="" />
+<img src="./iamges/IMG_3697.HEIC" alt="" />
+<img src="./iamges/IMG_3716.HEIC" alt="" />
+<img src="./iamges/IMG_3721.PNG" alt="" />
+<img src="./iamges/IMG_3722.PNG" alt="" />
+<img src="./iamges/IMG_3723.PNG" alt="" />
+<img src="./iamges/IMG_3724.PNG" alt="" />
+<img src="./iamges/IMG_3727.PNG" alt="" />
+
 
 ## Video Explanation and Demo
 [![IMAGE ALT TEXT HERE](./images/IMG_3593.jpg)](https://youtu.be/yMld8e0tEiU)
@@ -21,6 +26,13 @@ For more information of how to build and run the project, check the circuit sche
 ## Functionality
 The components for this project are
 - an Arduino
+- 2 servos
+- 3 LEDs
+- 3 220 ohm resistors
+- 1 push button
+- wires
+- a lot of cardboard and popsicle sticks
+- milk
 
 To run the code, import the Arduino code onto your Arduino,, and then begin running the pythn code.
 
