@@ -6,7 +6,7 @@
 For more information of how to build and run the project, check the circuit schema below and the functionality section.
 
 ## Circuit Schema
-<img src="./images/circuit.png" alt="Circuit Schema" />
+<img src="./iamges/circuit schema.png" alt="Circuit Schema" />
 
 ## Photos
 <img src="./images/IMG_3563.jpg" alt="" />
