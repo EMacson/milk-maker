@@ -1,7 +1,9 @@
 # milk-maker
 
 ## Concept
-What is the best kind of milk? It is an age old question. Some people might say cow, others almond, or maybe soy. But what if you didn't have to choose just one milk. 
+What is the best kind of milk? It is an age old question. Some people might say cow, others almond, or maybe soy. But what if you didn't have to choose just one milk, that is what milk maker is for. Milk maker is a way for people to come together to decide who likes which milk and to create a new, unique milk that represents everyone's milk preference. 
+
+Milk maker creates milk by checking instagram for people's milk preference and then dispensing each milk ingredient into a blender container based on the data milk maker collects. In particular, each milk type has a dedicated instagram page that people can follow, where each follower for a milk page represents a vote for that milk. This means that you technically vote for more than one milk by following more pages, which helps users who can't choose just one favorite milk. In the current version of milk maker, instagram pages has been setup for soy, oat, almond, and coconut milk (a screenshot from each page is provided below). Originally I intended for user voting to take place on twitter, where users could vote on a twitter poll that milk maker could then collect the results from. However, the new version of twitter API (updated in late 2023) has heavily restricted the free access so I could not retrieve poll results without paying for the premium version.
 
 For more information of how to build and run the project, check the circuit schema below and the functionality section.
 
