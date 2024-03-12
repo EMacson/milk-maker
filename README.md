@@ -45,7 +45,7 @@ To run the code, import the Arduino code onto your Arduino,, and then begin runn
 - get Instagram account information with python. (2022a). YouTube. Retrieved March 7, 2024, from https://www.youtube.com/watch?v=E6wgokYYrUo.
 - Python serial port communication using PySerial. (2022b). YouTube. Retrieved March 7, 2024, from https://www.youtube.com/watch?v=Kr1RyK6WENQ. 
 
-### Image Sources from Video
+### Image Sources from Instagram Pages and Video
 - Hackett, J. (2019). Soy Beans. The Spruce Eats. Retrieved March 8, 2024, from https://www.thespruceeats.com/how-to-cook-soy-beans-3376401.
 - Mulcahy, L. (2023). Coconuts. Good Housekeeping. Retrieved March 8, 2024, from https://www.goodhousekeeping.com/health/diet-nutrition/a45965113/coconut-nutrition-benefits/.
 - Sass, C. (2023). Almonds. Health. Retrieved March 8, 2024, from https://www.health.com/food/health-benefits-almonds.
