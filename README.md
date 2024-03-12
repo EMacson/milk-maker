@@ -17,13 +17,12 @@ For more information of how to build and run the project, check the circuit sche
 <img src="./iamges/IMG_3724.PNG" alt="" />
 
 ## Photos
-<img src="./iamges/IMG_3694.HEIC" alt="" />
-<img src="./iamges/IMG_3697.HEIC" alt="" />
-<img src="./iamges/IMG_3716.HEIC" alt="" />
+<img src="./iamges/IMG_3694.jpg" alt="" />
+<img src="./iamges/IMG_3729.jpg" alt="" />
 <img src="./iamges/IMG_3727.PNG" alt="" />
 
 ## Video Explanation and Demo
-[![IMAGE ALT TEXT HERE](./images/IMG_3593.jpg)](https://youtu.be/yMld8e0tEiU)
+[![IMAGE ALT TEXT HERE](./iamges/IMG_3727.PNG)](https://youtu.be/yMld8e0tEiU)
 [Video](https://youtu.be/yMld8e0tEiU)
 
 ## Functionality
