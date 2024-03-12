@@ -36,7 +36,22 @@ The components for this project are
 - a lot of cardboard and popsicle sticks
 - milk ingredients
 
-To run the code, import the Arduino code onto your Arduino,, and then begin running the pythn code.
+To run the code, import the Arduino code onto your Arduino, and then begin running the python code.
+
+The dispenser is operated by a slider crank machanism that is powered by a servo. The servo will open a funnel full of a milk's dry ingredient for a set amount of time that is based of that milk's follower count. All of the ingredients will then fall into a blender container which a user can then use to blender and sweeten the milk to their liking (rough recipe for milk below). Since there are only instagram pages for soy, oat, almond, and coconut milk, the dispensers should be filled accordingly with these ingredients. The layout of the dispensers is the front right is soy, front left is oat, back left is almond, and back right is coconut. One issue I found with my dispenser design is that the servos are not always poerful enough to properly open and close each dispenser. When testing the interface try to run the dispenser without any ingredients (ie no weight) to see the mechanism work as intended and then add ingredients after. In the future I would try to use a stronger servo for the slider crank or use a different mechanism the operate the opening and closing acctuation. 
+
+## Recipe
+This recipe is for approximately 1 cup of milk
+### Ingredients
+- 1/3 - 1/2cup dry ingredients
+- 1 cup water
+- 1tsp - 1tbsp sweetener (I used maple syrup)
+- pinch of salt
+### Steps
+- place ingredients in a blender
+- blend til smooth
+- strain into a glass
+- enjoy
 
 ## References
 ### Tutorials Used for the Project
